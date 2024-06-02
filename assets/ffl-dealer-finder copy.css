@@ -1,0 +1,42 @@
+#ffl-dealer-finder-modal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #fff;
+    padding: 20px;
+    border: 1px solid #ccc;
+    z-index: 1000;
+}
+
+#ffl-dealer-results div {
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+#find-a-dealer-btn {
+    background-color: #007cba;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+#find-a-dealer-btn:hover {
+    background-color: #005a9c;
+}
+
+#ffl-dealer-finder-modal h3 {
+    margin-top: 0;
+}
+
+#ffl-dealer-finder-modal button {
+    background-color: #007cba;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+}
